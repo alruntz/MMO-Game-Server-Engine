@@ -1,0 +1,9 @@
+D:\Noexia.Games\TurnBased\Noe.TurnBased\MMO-Game-Server-Engine\Noe.MMO\Noe.MMO.Game.Transport.Server\bin\Debug\netcoreapp3.1\Noe.MMO.Game.Transport.Server.deps.json
+D:\Noexia.Games\TurnBased\Noe.TurnBased\MMO-Game-Server-Engine\Noe.MMO\Noe.MMO.Game.Transport.Server\bin\Debug\netcoreapp3.1\Noe.MMO.Game.Transport.Server.dll
+D:\Noexia.Games\TurnBased\Noe.TurnBased\MMO-Game-Server-Engine\Noe.MMO\Noe.MMO.Game.Transport.Server\bin\Debug\netcoreapp3.1\Noe.MMO.Game.Transport.Server.pdb
+D:\Noexia.Games\TurnBased\Noe.TurnBased\MMO-Game-Server-Engine\Noe.MMO\Noe.MMO.Game.Transport.Server\obj\Debug\netcoreapp3.1\Noe.MMO.Game.Transport.Server.csprojAssemblyReference.cache
+D:\Noexia.Games\TurnBased\Noe.TurnBased\MMO-Game-Server-Engine\Noe.MMO\Noe.MMO.Game.Transport.Server\obj\Debug\netcoreapp3.1\Noe.MMO.Game.Transport.Server.AssemblyInfoInputs.cache
+D:\Noexia.Games\TurnBased\Noe.TurnBased\MMO-Game-Server-Engine\Noe.MMO\Noe.MMO.Game.Transport.Server\obj\Debug\netcoreapp3.1\Noe.MMO.Game.Transport.Server.AssemblyInfo.cs
+D:\Noexia.Games\TurnBased\Noe.TurnBased\MMO-Game-Server-Engine\Noe.MMO\Noe.MMO.Game.Transport.Server\obj\Debug\netcoreapp3.1\Noe.MMO.Game.Transport.Server.csproj.CoreCompileInputs.cache
+D:\Noexia.Games\TurnBased\Noe.TurnBased\MMO-Game-Server-Engine\Noe.MMO\Noe.MMO.Game.Transport.Server\obj\Debug\netcoreapp3.1\Noe.MMO.Game.Transport.Server.dll
+D:\Noexia.Games\TurnBased\Noe.TurnBased\MMO-Game-Server-Engine\Noe.MMO\Noe.MMO.Game.Transport.Server\obj\Debug\netcoreapp3.1\Noe.MMO.Game.Transport.Server.pdb
